@@ -3,8 +3,8 @@
     <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
-      <a href="/first-app">First App</a> |
-      <a href="/second-app">Second App</a>
+      <a href="/first_app/">First App</a> |
+      <a href="/second_app/">Second App</a>
     </nav>
     <router-view/>
   </div>
